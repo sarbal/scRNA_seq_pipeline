@@ -1,10 +1,3 @@
----
-title: "Your single cell workbook"
-output: html_notebook
-date: 'Compiled: `r format(Sys.Date(), "%B %d, %Y")`'
-name: "###NAME"
----
-
 ## Loading libraries and packages
 
 ```{r setup, include=FALSE}
