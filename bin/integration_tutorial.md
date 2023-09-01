@@ -1,10 +1,4 @@
----
-title: "Single cell workbook - integration and case versus control"
-output: html_notebook
-date: 'Compiled: `r format(Sys.Date(), "%B %d, %Y")`'
-name: "###NAME"
----
-
+# Single-cell pipeline - integration and case versus control
 
 ## Loading libraries and packages
 
