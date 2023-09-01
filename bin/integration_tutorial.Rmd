@@ -1,4 +1,11 @@
-# Single-cell pipeline - integration and case versus control
+---
+title: "Your single cell workbook"
+output:
+  html_document:
+    df_print: paged
+date: 'Compiled: `r format(Sys.Date(), "%B %d, %Y")`'
+name: Sara Ballouz
+---
 
 ## Loading libraries and packages
 
