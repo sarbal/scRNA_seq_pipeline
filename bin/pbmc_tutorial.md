@@ -1,3 +1,5 @@
+# Single-cell pipeline
+
 ## Loading libraries and packages
 
 ```{r setup, include=FALSE}
